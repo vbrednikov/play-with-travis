@@ -6,7 +6,7 @@ class NumbersTest(unittest.TestCase):
         self.assertEqual(1 + 1, 2)
 
     def test_not_equal(self):
-        self.assertNotEqual(1 + 1, 2)
+        self.assertNotEqual(1 + 1, 1)
 
 if __name__ == '__main__':
     unittest.main()
