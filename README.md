@@ -1,3 +1,3 @@
 # Play with Travis CI
 
-TBD TBD
+[![Build Status](https://travis-ci.org/vbrednikov/play-with-travis.svg?branch=master)](https://travis-ci.org/vbrednikov/play-with-travis)
